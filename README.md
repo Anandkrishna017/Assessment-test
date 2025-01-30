@@ -10,7 +10,7 @@ Make sure you have **Node.js** and **npm** installed on your machine.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/Anandkrishna017/Assessment-test.git
    ```
 2. Navigate into the project directory:
    ```sh

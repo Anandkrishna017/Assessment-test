@@ -1,0 +1,15 @@
+.task-input {
+  width: 70%;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.add-button {
+  margin-left: 5px;
+}
+
+.no-task {
+  color: red;
+  font-size: small;
+  margin-left: 5px;
+}

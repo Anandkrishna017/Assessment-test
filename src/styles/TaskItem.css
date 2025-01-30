@@ -1,0 +1,8 @@
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.task-item-button {
+  margin-left: 5px;
+}

@@ -14,7 +14,7 @@ Make sure you have **Node.js** and **npm** installed on your machine.
    ```
 2. Navigate into the project directory:
    ```sh
-   cd task-management
+   cd Assessment-test-main
    ```
 3. Install dependencies:
    ```sh
